@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftSensConfv2", "SoftSensConfv2\SoftSensConfv2.csproj", "{24B12787-FAAF-4EA6-85D4-9F02CA59421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B12787-FAAF-4EA6-85D4-9F02CA59421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B12787-FAAF-4EA6-85D4-9F02CA59421C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B12787-FAAF-4EA6-85D4-9F02CA59421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B12787-FAAF-4EA6-85D4-9F02CA59421C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F51E541-9D7F-4C5D-A024-0218DF7500B0}
+	EndGlobalSection
+EndGlobal
